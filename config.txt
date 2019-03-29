@@ -1,0 +1,9 @@
+token= NTM1NTYxNzA0Mjc3NDA5Nzky.D0idMQ.jZPbnesJKlreDMFkjnK85X43RfM
+owner= 208323278463303680 
+prefix= ☿
+game= Black Mage ☿
+stayinchannel=true 
+songinstatus=true 
+
+
+
